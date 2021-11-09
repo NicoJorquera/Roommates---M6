@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": "8b1c5f40",
+      "correo": "eliott.dubois@example.com",
+      "nombre": "Mr Eliott Dubois",
+      "foto": "https://randomuser.me/api/portraits/men/54.jpg",
+      "pais": "France"
+    },
+    {
+      "id": "25275f19",
+      "correo": "ana.kjelsrud@example.com",
+      "nombre": "Ms Ana Kjelsrud",
+      "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+      "pais": "Norway"
+    },
+    {
+      "id": "b2a53fc9",
+      "correo": "irmingard.schuler@example.com",
+      "nombre": "Mrs Irmingard Schuler",
+      "foto": "https://randomuser.me/api/portraits/women/29.jpg",
+      "pais": "Germany"
+    }
+  ]
+}
